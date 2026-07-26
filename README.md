@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1929-concatenation-of-array](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

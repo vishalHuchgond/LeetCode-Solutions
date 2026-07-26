@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting

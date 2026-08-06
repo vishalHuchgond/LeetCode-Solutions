@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0704-binary-search) |
 ## String
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

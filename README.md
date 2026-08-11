@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0217-contains-duplicate) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vishalHuchgond/LeetCode---Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
